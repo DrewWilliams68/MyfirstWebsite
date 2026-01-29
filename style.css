@@ -3,10 +3,13 @@ head{
 }
 
 body{
-   text-align:right;
+   text-align: center;
 }
 
 cast{
     
     color:blue;
+}
+story{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
