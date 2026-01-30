@@ -29,6 +29,7 @@ header h1{
   align-items: center;
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/500px-ChessStartingPosition.jpg');
   background-size:contain;
+  background-repeat: no-repeat;
   height: 500px;
 }
 
@@ -40,7 +41,13 @@ header h1{
   margin: 0 0 30px;
 }
 
-
+.jumbotron2{
+    display: flex;
+    align-items: center;
+    background-size:contain;
+    background-color:beige;
+    height: 800px
+}
 story{
     text-align:right;
 }
