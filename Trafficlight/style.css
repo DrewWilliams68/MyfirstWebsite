@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+.rectangle {
+    height: 300px;
+    width: 150px;
+    background-color: black;
+
+}
+.go {
+  height: 60px;
+  width: 60px;
+  background-color: green;
+  border-radius: 50%;
+  
+}
+.stop {
+  height: 60px;
+  width: 60px;
+  background-color: red;
+  border-radius: 50%;
+}
+.yield {
+  height: 60px;
+  width: 60px;
+  background-color: yellow;
+  border-radius: 50%;
+}
+.center{
+    margin: auto;
+    border: 3px;
+    padding: 20px;
+}
+
+#clicker{
+    height: 30px;
+    width: 75px;
+    margin-top: 2%;
+    font-size: 25px;
+}
+
